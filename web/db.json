@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Igore4ek",
+      "age": 5,
+      "id": 1
+    },
+    {
+      "name": "Igore4ek",
+      "age": 5,
+      "id": 2
+    },
+    {
+      "name": "Igore4ek",
+      "age": 5,
+      "id": 3
+    },
+    {
+      "name": "Igore4ek",
+      "age": 5,
+      "id": 4
+    },
+    {
+      "name": "Jackson Ford",
+      "age": 27,
+      "id": 5
+    },
+    {
+      "name": "Igor",
+      "age": 23,
+      "id": 6
+    }
+  ]
+}
